@@ -15,7 +15,7 @@ const greeting = {
 		"A passionate Full Stack Software Developer, Freelancer and Competitive Coder 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Typescript / Reactjs / Nodejs, working with codes of C++ and some other cool libraries and frameworks. I love to code be it Development or Competitve coding."
 	),
 	resumeLink:
-		"https://drive.google.com/u/0/uc?id=1MKdyPYSLU6bK54Wdu0nxdGAZqUuKpC5D&export=download",
+		"https://drive.google.com/file/d/1lj04VMd1ZzDKK0GcMzoT-BIFDSAooWIG/view?usp=sharing",
 	displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
