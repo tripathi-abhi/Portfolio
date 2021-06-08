@@ -205,8 +205,8 @@ const bigProjects = {
 			projectDesc: "Designed and built a bakery website",
 			footerLink: [
 				{
-					name: "Visit Repo",
-					url: "https://github.com/vaibhav-0027/CakeSabha",
+					name: "Checkout Website",
+					url: "https://www.cakesabha.com/",
 				},
 				//  you can add extra buttons here.
 			],
